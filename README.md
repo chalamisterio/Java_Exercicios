@@ -53,3 +53,9 @@ das primeiras n/2 posições com os elementos das últimas n/2 posições, apres
 resultado em tela. Finalmente, apresente a soma dos números pares e o produto dos
 números ímpares armazenados no vetor.
 
+Exercício 1.9. (OperacoesMatriz)
+Escreva um algoritmo que faça a leitura de uma matriz quadrada de tamanho n (o
+tamanho também deve ser fornecido pelo usuário) com número inteiros. Após a leitura, o
+algoritmo deverá apresentar a soma dos valores abaixo da diagonal principal, a soma dos
+valores acima da diagonal principal e o produto dos valores da diagonal principal.
+
