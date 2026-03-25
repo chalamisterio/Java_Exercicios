@@ -59,3 +59,7 @@ tamanho também deve ser fornecido pelo usuário) com número inteiros. Após a 
 algoritmo deverá apresentar a soma dos valores abaixo da diagonal principal, a soma dos
 valores acima da diagonal principal e o produto dos valores da diagonal principal.
 
+Exercício 1.10. (GeraMatriz)
+Faça um algoritmo que leia uma matriz de ordem NxM com números inteiros e some cada
+uma das linhas, armazenando o resultado das somas em um vetor. A seguir, multiplique
+cada elemento da matriz pela soma da linha e mostre a matriz resultante.
