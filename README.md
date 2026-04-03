@@ -63,3 +63,8 @@ Exercício 1.10. (GeraMatriz)
 Faça um algoritmo que leia uma matriz de ordem NxM com números inteiros e some cada
 uma das linhas, armazenando o resultado das somas em um vetor. A seguir, multiplique
 cada elemento da matriz pela soma da linha e mostre a matriz resultante.
+
+Exercício 1.11. (Palindromo)
+Crie um programa que faça a leitura de uma palavra e verifique se a mesma é um palín-
+dromo. Um palíndromo é uma palavra que, quando invertida, não é modificada. Exemplo:
+REVER.
