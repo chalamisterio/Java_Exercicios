@@ -68,3 +68,9 @@ Exercício 1.11. (Palindromo)
 Crie um programa que faça a leitura de uma palavra e verifique se a mesma é um palín-
 dromo. Um palíndromo é uma palavra que, quando invertida, não é modificada. Exemplo:
 REVER.
+Exercício 1.12. (BuscaPalavra)
+Escreva um algoritmo que faça a leitura de um texto informado pelo usuário. Após isso,
+leia uma palavra também informada pelo usuário. O algoritmo deve determinar se a
+palavra encontra-se no texto informado. Utilize apenas a função charAt(i), da classe
+String.
+
